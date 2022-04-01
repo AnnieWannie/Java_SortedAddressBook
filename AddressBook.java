@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Anthony Elia - N01515607
+ * @author BADBADWUTSGOOD
  */
 public class AddressBook {
 
